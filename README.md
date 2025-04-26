@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Ricelbolesatrinidad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ricelbolesatrinidad/Ricelbolesatrinidad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Project Description:
+Students will work in teams to build a real-world application 
+that connects multiple systems or services. The application 
+should demonstrate integration between:
+• A web or mobile frontend
+• A backend service using an API (REST or SOAP)
+• A database system (SQL or NoSQL)
+• Optionally, a cloud service or third-party API
